@@ -1,13 +1,13 @@
 # QUANTCONNECT-STRATEGY
 NUS FINTECH SG course use case
 
-Use QUANTCONNECT to establish an automated investment strategy.
-The methodology was to:
+Use QUANTCONNECT to establish an automated investment strategy.<br \>
+The methodology was to:<br \>
 - First IDENTIFY the market or product to invest in
 - Second DECIDE which indicator to follow
-- Third MANAGE the risk of the investment made
+- Third MANAGE the risk of the investment made<br \>
 
-The target was to:
+The target was to:<br \>
 - Maximize the profite
 - Reduce the fluctuation (Std dev, drawdowm, ...)
 
