@@ -5,9 +5,9 @@ Use QUANTCONNECT to establish an automated investment strategy.<br />
 The methodology was to:
 - First IDENTIFY the market or product to invest in
 - Second DECIDE which indicator to follow
-- Third MANAGE the risk of the investment made<br \>
+- Third MANAGE the risk of the investment made
 
-The target was to:<br \>
+The target was to:
 - Maximize the profite
 - Reduce the fluctuation (Std dev, drawdowm, ...)
 
